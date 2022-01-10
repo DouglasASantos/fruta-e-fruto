@@ -6,10 +6,10 @@ Projeto simulando uma página com dicas de receitas naturais.
 
 
 
-![image](header_tablet.png "tablet")
+![image](header_tablet.PNG "tablet")
 
 
-![image](header_mobile.png "mobile")
+![image](header_mobile.PNG "mobile")
 
 ## Motivação
 
